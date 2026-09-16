@@ -72,3 +72,12 @@
   font-size: 0.85rem;
   margin-top: 0.25rem;
 }
+
+.category {
+  color: #9ca3af;
+  font-size: 0.85rem;
+}
+
+.suggestion {
+  color: #2563eb;
+}
